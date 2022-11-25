@@ -1,0 +1,301 @@
+Transaction Sequence Number: 5
+Transaction Date: 24/11/2022
+Transaction Amount: 555.00
+Transaction State: 0
+Max. Transaction Amount: 5555.00
+Card Expiration Date: 11/22
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 0586376993488259
+
+#################################################
+
+Transaction Sequence Number: 6
+Transaction Date: 25/11/2022
+Transaction Amount: 555.00
+Transation State: APPROVED 
+Max. Transaction Amount: 5555.00
+Card Expiration Date: 11/22
+Card Holder's Name: ahmed ibrahim ahmed 
+
+Card PAN: 0586376993488259
+
+#################################################
+
+Transaction Sequence Number: 7
+Transaction Date: 25/11/2022
+Transaction Amount: 444.00
+Transation State: APPROVED 
+Max. Transaction Amount: 4444.00
+Card Expiration Date: 11/22
+Card Holder's Name: Ahmed Ibrahim Ahmed 
+
+Card PAN: 5393662746266668
+
+#################################################
+
+Transaction Sequence Number: 8
+Transaction Date: 746266668
+
+Transaction Amount: 0.00
+Transation State: APPROVED 
+Max. Transaction Amount: 0.00
+Card Expiration Date: 11/22
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 5393662746266668
+
+#################################################
+
+Transaction Sequence Number: 9
+Transaction Date: 25/11/2022
+Transaction Amount: 555.00
+Transaction State: 0.00
+Max. Transaction Amount: 5555.00
+Card Expiration Date: 11/22
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 5393662746266668
+
+#################################################
+
+Transaction Sequence Number: 10
+Transaction Date: 25/11/2022
+Transaction Amount: 555.00
+Transaction State: 0
+Max. Transaction Amount: 5555.00
+Card Expiration Date: 11/22
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 0586376993488259
+
+#################################################
+
+Transaction Sequence Number: 11
+Transaction Date: 25/11/2022
+Transaction Amount: 555.00
+Transaction State: 2
+Max. Transaction Amount: 5555.00
+Card Expiration Date: 11/22
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 6331870948703395
+
+#################################################
+
+Transaction Sequence Number: 12
+Transaction Date: 25/11/2022
+Transaction Amount: 444.00
+Transaction State: 0 (Transation State: APPROVED)
+Max. Transaction Amount: 4444.00
+Card Expiration Date: 11/22
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 1029055916669780
+
+#################################################
+
+Transaction Sequence Number: 13
+Transaction Date: 25/11/2022
+Transaction Amount: 555.00
+Transaction State: 0 (APPROVED)
+Max. Transaction Amount: 5555.00
+Card Expiration Date: 11/22
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 1029055916669780
+
+#################################################
+
+Transaction Sequence Number: 14
+Transaction Date: 25/11/2022
+Transaction Amount: 555.00
+Transaction State: 0 (APPROVED)
+Max. Transaction Amount: 5555.00
+Card Expiration Date: 11/22
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 1029055916669780
+
+#################################################
+
+Transaction Sequence Number: 15
+Transaction Date: 25/11/2022
+Transaction Amount: 777.00
+Transaction State: 0 (APPROVED)
+Max. Transaction Amount: 7777.00
+Card Expiration Date: 11/22
+Card Holder's Name: Ahmed Ibrahim Ahmed 
+
+Card PAN: 1029055916669780
+
+#################################################
+
+Transaction Sequence Number: 16
+Transaction Date: 25/11/2022
+Transaction Amount: 444.00
+Transaction State: 0 (APPROVED)
+Max. Transaction Amount: 4444.00
+Card Expiration Date: 11/22
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 1029055916669780
+
+#################################################
+
+Transaction Sequence Number: 17
+Transaction Date: 25/11/2022
+Transaction Amount: 555.00
+Transaction State: 0 (APPROVED)
+Max. Transaction Amount: 5555.00
+Card Expiration Date: 11/23
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 2969384271668595
+
+#################################################
+
+Transaction Sequence Number: 18
+Transaction Date: 25/11/2022
+Transaction Amount: 666.00
+Transaction State: 0 (APPROVED)
+Max. Transaction Amount: 6666.00
+Card Expiration Date: 11/22
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 2969384271668595
+
+#################################################
+
+Transaction Sequence Number: 19
+Transaction Date: 25/11/2022
+Transaction Amount: 888.00
+Transaction State: 0 (APPROVED)
+Max. Transaction Amount: 8888.00
+Card Expiration Date: 11/22
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 4264938796199457
+
+#################################################
+
+Transaction Sequence Number: 20
+Transaction Date: 25/11/2022
+Transaction Amount: 444.00
+Transaction State: 0 (APPROVED)
+Max. Transaction Amount: 4444.00
+Card Expiration Date: 11/22
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 4264938796199457
+
+#################################################
+
+Transaction Sequence Number: 21
+Transaction Date: 25/11/2022
+Transaction Amount: 777.00
+Transaction State: 0 (APPROVED)
+Max. Transaction Amount: 7777.00
+Card Expiration Date: 11/23
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 4264938796199457
+
+#################################################
+
+Transaction Sequence Number: 22
+Transaction Date: 25/11/2022
+Transaction Amount: 666.00
+Transaction State: 0 (APPROVED)
+Max. Transaction Amount: 6666.00
+Card Expiration Date: 11/22
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 4264938796199457
+
+#################################################
+
+Transaction Sequence Number: 23
+Transaction Date: 25/11/2022
+Transaction Amount: 555.00
+Transaction State: 0 (APPROVED)
+Max. Transaction Amount: 5555.00
+Card Expiration Date: 11/23
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 1029055916669780
+
+#################################################
+
+Transaction Sequence Number: 24
+Transaction Date: 25/11/2022
+Transaction Amount: 444.00
+Transaction State: 0 (APPROVED)
+Max. Transaction Amount: 4444.00
+Card Expiration Date: 11/22
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 1029055916669780
+
+#################################################
+
+Transaction Sequence Number: 25
+Transaction Date: 25/11/2022
+Transaction Amount: 333.00
+Transaction State: 0 (APPROVED)
+Max. Transaction Amount: 3333.00
+Card Expiration Date: 11/23
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 1029055916669780
+
+#################################################
+
+Transaction Sequence Number: 26
+Transaction Date: 25/11/2022
+Transaction Amount: 444.00
+Transaction State: 0 (APPROVED)
+Max. Transaction Amount: 9999.00
+Card Expiration Date: 11/23
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 1029055916669780
+
+#################################################
+
+Transaction Sequence Number: 27
+Transaction Date: 25/11/2022
+Transaction Amount: 444.00
+Transaction State: 0 (APPROVED)
+Max. Transaction Amount: 4444.00
+Card Expiration Date: 11/23
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 1029055916669780
+
+#################################################
+
+Transaction Sequence Number: 28
+Transaction Date: 25/11/2022
+Transaction Amount: 444.00
+Transaction State: 0 (APPROVED)
+Max. Transaction Amount: 4444.00
+Card Expiration Date: 11/23
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 1029055916669780
+
+#################################################
+
+Transaction Sequence Number: 29
+Transaction Date: 25/11/2022
+Transaction Amount: 444.00
+Transaction State: 0 (APPROVED)
+Max. Transaction Amount: 4444.00
+Card Expiration Date: 11/22
+Card Holder's Name: AHMED IBRAHIM AHMED 
+
+Card PAN: 2969384271668595
+
+#################################################
+

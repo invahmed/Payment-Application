@@ -1,0 +1,5 @@
+﻿  terminal.c
+E:\PA_P1\Payment Application\Terminal\terminal.c(20,30): warning C4013: 'strlen' undefined; assuming extern returning int
+E:\PA_P1\Payment Application\Terminal\terminal.c(23,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+app.obj : error LNK2001: unresolved external symbol _transData
+E:\PA_P1\Payment Application\Debug\Payment Application.exe : fatal error LNK1120: 1 unresolved externals
